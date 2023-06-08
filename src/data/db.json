@@ -1,1 +1,46 @@
-{}
+{
+    "movimientos": [
+        {
+          "id": 1,
+          "description": "compra",
+          "value": 500000,
+          "type": "egreso",
+          "actions": ""
+        },
+        {
+            "id": 2,
+            "description": "venta",
+            "value": 1000000,
+            "type": "ingreso",
+            "actions": ""
+          },
+          {
+            "id": 3,
+            "description": "venta",
+            "value": 600000,
+            "type": "ingreso",
+            "actions": ""
+          },
+          {
+            "id": 4,
+            "description": "compra",
+            "value": 500000,
+            "type": "egreso",
+            "actions": ""
+          },
+          {
+            "id": 5,
+            "description": "compra",
+            "value": 1000000,
+            "type": "egreso",
+            "actions": ""
+          },
+          {
+            "id": 6,
+            "description": "venta",
+            "value": 3000000,
+            "type": "ingreso",
+            "actions": ""
+          }
+    ]
+}
